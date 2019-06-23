@@ -1,0 +1,21 @@
+﻿  Source.cpp
+c:\users\chris\source\repos\matrix\matrix\source.cpp(158): warning C4018: '<': signed/unsigned mismatch
+c:\users\chris\source\repos\matrix\matrix\source.cpp(159): warning C4018: '<': signed/unsigned mismatch
+c:\users\chris\source\repos\matrix\matrix\source.cpp(183): warning C4018: '<': signed/unsigned mismatch
+c:\users\chris\source\repos\matrix\matrix\source.cpp(184): warning C4018: '<': signed/unsigned mismatch
+c:\users\chris\source\repos\matrix\matrix\source.cpp(210): warning C4018: '<': signed/unsigned mismatch
+c:\users\chris\source\repos\matrix\matrix\source.cpp(212): warning C4018: '<': signed/unsigned mismatch
+c:\users\chris\source\repos\matrix\matrix\source.cpp(215): warning C4018: '<': signed/unsigned mismatch
+c:\users\chris\source\repos\matrix\matrix\source.cpp(240): warning C4018: '<': signed/unsigned mismatch
+c:\users\chris\source\repos\matrix\matrix\source.cpp(242): warning C4018: '<': signed/unsigned mismatch
+c:\users\chris\source\repos\matrix\matrix\source.cpp(245): warning C4018: '<': signed/unsigned mismatch
+c:\users\chris\source\repos\matrix\matrix\source.cpp(262): warning C4018: '<': signed/unsigned mismatch
+c:\users\chris\source\repos\matrix\matrix\source.cpp(263): warning C4018: '<': signed/unsigned mismatch
+c:\users\chris\source\repos\matrix\matrix\source.cpp(289): warning C4018: '<': signed/unsigned mismatch
+c:\users\chris\source\repos\matrix\matrix\source.cpp(290): warning C4018: '<': signed/unsigned mismatch
+c:\users\chris\source\repos\matrix\matrix\source.cpp(299): warning C4018: '<': signed/unsigned mismatch
+c:\users\chris\source\repos\matrix\matrix\source.cpp(300): warning C4018: '<': signed/unsigned mismatch
+c:\users\chris\source\repos\matrix\matrix\source.cpp(311): warning C4018: '<': signed/unsigned mismatch
+c:\users\chris\source\repos\matrix\matrix\source.cpp(312): warning C4018: '<': signed/unsigned mismatch
+c:\users\chris\source\repos\matrix\matrix\source.cpp(314): warning C4018: '<': signed/unsigned mismatch
+  Matrix.vcxproj -> C:\Users\Chris\source\repos\Matrix\Debug\Matrix.exe
